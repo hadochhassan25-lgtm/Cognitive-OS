@@ -31,3 +31,8 @@ but realistic engineering constraints. Format as a structured research document.
 - **GPT-4o**: temperature=0.8, same standard prompt
 - **Llama 3.1 405B**: Same standard prompt but shorter version due to timeout constraints
 - **Claude**: Same standard prompt via direct conversation
+- **Phi-4**: temperature=0.7, standard prompt (added 2026-05-31)
+- **Llama 3.3 70B**: temperature=0.7, standard prompt (added 2026-05-31)
+- **Ministral 3B**: temperature=0.7, standard prompt (added 2026-05-31)
+- **DeepSeek R1**: temperature=0.7, standard prompt (added 2026-05-31)
+- **Codestral 2501**: temperature=0.7, standard prompt (added 2026-05-31)
